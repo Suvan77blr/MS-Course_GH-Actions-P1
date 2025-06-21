@@ -11,6 +11,7 @@ If you would like to retrace your steps, you can always revisit the exercise.
 > [!TIP]
 > Mona won't grade you this time! 😉
 
+[![Post welcome comment](https://github.com/Suvan77blr/MS-Course_GH-Actions-P1/actions/workflows/welcome.yml/badge.svg)](https://github.com/Suvan77blr/MS-Course_GH-Actions-P1/actions/workflows/welcome.yml)
 
 ### Craving more? :raising_hand:
 
